@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "name": "ghi",
+      "address": "London",
+      "email": "ghi@gmail.com",
+      "contact": "741258963",
+      "id": 4
+    },
+    {
+      "name": "abc",
+      "email": "abc@gmail.com",
+      "contact": "258961",
+      "address": "India",
+      "id": 5
+    },
+    {
+      "name": "pqr",
+      "email": "pqr@gmail.com",
+      "contact": "852963",
+      "address": "India",
+      "id": 6
+    },
+    {
+      "name": "Priyanka",
+      "email": "Priya@gmail.com",
+      "contact": "123456787",
+      "address": "DWD",
+      "id": 7
+    }
+  ]
+}
